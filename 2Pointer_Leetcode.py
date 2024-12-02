@@ -27,8 +27,8 @@ class Solution(object):
 
 
 
-nums1 = [1,3]
-nums2 = [2,4]
+nums1 = [1,3,6]
+nums2 = [2,4,5]
 
 x = Solution()  
 x.findMedianSortedArrays(nums1,nums2)
